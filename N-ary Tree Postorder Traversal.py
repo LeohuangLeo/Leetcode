@@ -1,3 +1,4 @@
+#590
 class Solution:
     def postorder(self, root: 'Node') -> List[int]:
         lis = []
