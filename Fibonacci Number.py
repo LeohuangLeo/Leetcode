@@ -1,4 +1,4 @@
-#1200
+#509
 class Solution:
     def fib(self, N: int) -> int:
         if N == 0:
