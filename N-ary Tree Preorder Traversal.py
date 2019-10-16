@@ -1,3 +1,4 @@
+#589
 class Solution:
     def preorder(self, root: 'Node') -> List[int]:
         lis = []
