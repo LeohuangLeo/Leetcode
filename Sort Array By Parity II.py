@@ -1,3 +1,4 @@
+#922
 class Solution:
     def sortArrayByParityII(self, A: List[int]) -> List[int]:
         num_even = list(filter(lambda x:x%2==0, A))
